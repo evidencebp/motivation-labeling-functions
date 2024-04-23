@@ -1,0 +1,45 @@
+metric,value
+avg_coupling_code_size_cut_inconsisetent_values,[]
+avg_coupling_code_size_cut_inconsisetent_num,0
+ccp_inconsisetent_values,[]
+ccp_inconsisetent_num,0
+commit_day_density_inconsisetent_values,[]
+commit_day_density_inconsisetent_num,0
+commit_days_inconsisetent_values,[]
+commit_days_inconsisetent_num,0
+commit_period_inconsisetent_values,[]
+commit_period_inconsisetent_num,0
+commits_inconsisetent_values,[]
+commits_inconsisetent_num,0
+commits_per_day_inconsisetent_values,[]
+commits_per_day_inconsisetent_num,0
+corrective_multiline_message_ratio_inconsisetent_values,['Single']
+corrective_multiline_message_ratio_inconsisetent_num,1
+cursing_rate_inconsisetent_values,[]
+cursing_rate_inconsisetent_num,0
+files_created_inconsisetent_values,['Single']
+files_created_inconsisetent_num,1
+files_edited_inconsisetent_values,"['Single', 'Small']"
+files_edited_inconsisetent_num,2
+message_length_avg_inconsisetent_values,[]
+message_length_avg_inconsisetent_num,0
+multiline_message_ratio_inconsisetent_values,[]
+multiline_message_ratio_inconsisetent_num,0
+negative_sentiment_rate_inconsisetent_values,['Single']
+negative_sentiment_rate_inconsisetent_num,1
+one_file_fix_rate_inconsisetent_values,['Single']
+one_file_fix_rate_inconsisetent_num,1
+one_file_refactor_rate_inconsisetent_values,"['Single', 'Small']"
+one_file_refactor_rate_inconsisetent_num,2
+positive_sentiment_rate_inconsisetent_values,[]
+positive_sentiment_rate_inconsisetent_num,0
+prev_touch_ago_inconsisetent_values,['Single']
+prev_touch_ago_inconsisetent_num,1
+refactor_mle_inconsisetent_values,"['Medium', 'Single']"
+refactor_mle_inconsisetent_num,2
+reverted_ratio_inconsisetent_values,['Single']
+reverted_ratio_inconsisetent_num,1
+same_date_duration_avg_inconsisetent_values,[]
+same_date_duration_avg_inconsisetent_num,0
+tests_presence_inconsisetent_values,['Single']
+tests_presence_inconsisetent_num,1

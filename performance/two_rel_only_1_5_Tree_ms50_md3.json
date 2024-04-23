@@ -1,0 +1,22 @@
+{
+    "true_positives": 24133,
+    "true_negatives": 6940,
+    "false_positives": 2224,
+    "false_negatives": 11293,
+    "samples": 44590,
+    "accuracy": 0.7,
+    "positive_rate": 0.79,
+    "hit_rate": 0.59,
+    "precision": 0.92,
+    "precision_lift": 0.15,
+    "recall": 0.68,
+    "fpr": 0.24,
+    "jaccard": 0.64,
+    "independent_prob": 0.55,
+    "lift_over_independent": 0.26,
+    "lift_over_majority": -0.12,
+    "concept_entropy": 0.73,
+    "classifier_entropy": 0.98,
+    "mutual_information": 0.09,
+    "comment": null
+}

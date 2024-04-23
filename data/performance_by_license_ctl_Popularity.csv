@@ -1,0 +1,7 @@
+avg_coupling_code_size_cut,ccp,commit_day_density,commit_days,commit_period,commits,commits_per_day,corrective_multiline_message_ratio,cursing_rate,files_created,files_edited,message_length_avg,multiline_message_ratio,negative_sentiment_rate,one_file_fix_rate,one_file_refactor_rate,positive_sentiment_rate,prev_touch_ago,refactor_mle,reverted_ratio,same_date_duration_avg,tests_presence,Popularity
+,,,,,,,,,,,,,,,,,,,,,,-1.0
+False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,1.0
+False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,2.0
+False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,True,False,False,True,False,False,3.0
+False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,4.0
+False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,True,False,False,All

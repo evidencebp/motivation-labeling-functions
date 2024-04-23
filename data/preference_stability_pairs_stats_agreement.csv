@@ -1,0 +1,5 @@
+Preference,Accuracy,Independent Prob.,Lift,preference
+dev_group,1.0,0.38986611353981987,1.5649831192570747,dev_group
+popularity_group,1.0,0.3305454570043989,2.025302507747647,popularity_group
+is_employee,0.11389200187420973,0.01029780015308087,10.059838041247653,is_employee
+license_group,1.0,0.3975420796875659,1.5154569820279518,license_group

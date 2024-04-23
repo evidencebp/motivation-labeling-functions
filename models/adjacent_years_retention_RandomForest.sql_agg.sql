@@ -1,0 +1,15 @@
+create or replace function RandomForest_agg (high_message_length_cur int64, high_refactor_cur int64, high_hours_cur int64, high_message_length_next int64, high_refactor_next int64, high_hours_next int64) as (
+ 
+(
+RandomForest_0(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_1(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_2(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_3(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_4(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_5(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_6(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_7(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_8(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+ + RandomForest_9(high_message_length_cur,high_refactor_cur,high_hours_cur,high_message_length_next,high_refactor_next,high_hours_next)
+) /10
+)

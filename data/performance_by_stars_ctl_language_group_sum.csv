@@ -1,0 +1,45 @@
+metric,value
+avg_coupling_code_size_cut_inconsisetent_values,"['C++', 'Java', 'JavaScript', 'PHP', 'Python', 'other']"
+avg_coupling_code_size_cut_inconsisetent_num,6
+ccp_inconsisetent_values,"['Java', 'JavaScript', 'PHP', 'Python']"
+ccp_inconsisetent_num,4
+commit_day_density_inconsisetent_values,[]
+commit_day_density_inconsisetent_num,0
+commit_days_inconsisetent_values,[]
+commit_days_inconsisetent_num,0
+commit_period_inconsisetent_values,"['C++', 'Java', 'JavaScript', 'PHP', 'Python']"
+commit_period_inconsisetent_num,5
+commits_inconsisetent_values,[]
+commits_inconsisetent_num,0
+commits_per_day_inconsisetent_values,"['C++', 'Java', 'PHP']"
+commits_per_day_inconsisetent_num,3
+corrective_multiline_message_ratio_inconsisetent_values,[]
+corrective_multiline_message_ratio_inconsisetent_num,0
+cursing_rate_inconsisetent_values,[]
+cursing_rate_inconsisetent_num,0
+files_created_inconsisetent_values,"['Java', 'PHP']"
+files_created_inconsisetent_num,2
+files_edited_inconsisetent_values,[]
+files_edited_inconsisetent_num,0
+message_length_avg_inconsisetent_values,[]
+message_length_avg_inconsisetent_num,0
+multiline_message_ratio_inconsisetent_values,[]
+multiline_message_ratio_inconsisetent_num,0
+negative_sentiment_rate_inconsisetent_values,"['C++', 'Java', 'JavaScript']"
+negative_sentiment_rate_inconsisetent_num,3
+one_file_fix_rate_inconsisetent_values,[]
+one_file_fix_rate_inconsisetent_num,0
+one_file_refactor_rate_inconsisetent_values,[]
+one_file_refactor_rate_inconsisetent_num,0
+positive_sentiment_rate_inconsisetent_values,[]
+positive_sentiment_rate_inconsisetent_num,0
+prev_touch_ago_inconsisetent_values,[]
+prev_touch_ago_inconsisetent_num,0
+refactor_mle_inconsisetent_values,[]
+refactor_mle_inconsisetent_num,0
+reverted_ratio_inconsisetent_values,[]
+reverted_ratio_inconsisetent_num,0
+same_date_duration_avg_inconsisetent_values,['PHP']
+same_date_duration_avg_inconsisetent_num,1
+tests_presence_inconsisetent_values,[]
+tests_presence_inconsisetent_num,0

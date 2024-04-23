@@ -1,0 +1,45 @@
+metric,value
+avg_coupling_code_size_cut_inconsisetent_values,[]
+avg_coupling_code_size_cut_inconsisetent_num,0
+ccp_inconsisetent_values,"['PHP', 'Python', 'other']"
+ccp_inconsisetent_num,3
+commit_day_density_inconsisetent_values,['Java']
+commit_day_density_inconsisetent_num,1
+commit_days_inconsisetent_values,['other']
+commit_days_inconsisetent_num,1
+commit_period_inconsisetent_values,"['PHP', 'Python', 'other']"
+commit_period_inconsisetent_num,3
+commits_inconsisetent_values,['other']
+commits_inconsisetent_num,1
+commits_per_day_inconsisetent_values,['Java']
+commits_per_day_inconsisetent_num,1
+corrective_multiline_message_ratio_inconsisetent_values,[]
+corrective_multiline_message_ratio_inconsisetent_num,0
+cursing_rate_inconsisetent_values,"['C++', 'Java']"
+cursing_rate_inconsisetent_num,2
+files_created_inconsisetent_values,"['Python', 'other']"
+files_created_inconsisetent_num,2
+files_edited_inconsisetent_values,"['JavaScript', 'PHP']"
+files_edited_inconsisetent_num,2
+message_length_avg_inconsisetent_values,"['PHP', 'other']"
+message_length_avg_inconsisetent_num,2
+multiline_message_ratio_inconsisetent_values,[]
+multiline_message_ratio_inconsisetent_num,0
+negative_sentiment_rate_inconsisetent_values,"['PHP', 'Python', 'other']"
+negative_sentiment_rate_inconsisetent_num,3
+one_file_fix_rate_inconsisetent_values,"['C++', 'Java', 'JavaScript']"
+one_file_fix_rate_inconsisetent_num,3
+one_file_refactor_rate_inconsisetent_values,"['C++', 'Java']"
+one_file_refactor_rate_inconsisetent_num,2
+positive_sentiment_rate_inconsisetent_values,"['C++', 'Java', 'JavaScript']"
+positive_sentiment_rate_inconsisetent_num,3
+prev_touch_ago_inconsisetent_values,[]
+prev_touch_ago_inconsisetent_num,0
+refactor_mle_inconsisetent_values,['other']
+refactor_mle_inconsisetent_num,1
+reverted_ratio_inconsisetent_values,['JavaScript']
+reverted_ratio_inconsisetent_num,1
+same_date_duration_avg_inconsisetent_values,['PHP']
+same_date_duration_avg_inconsisetent_num,1
+tests_presence_inconsisetent_values,[]
+tests_presence_inconsisetent_num,0

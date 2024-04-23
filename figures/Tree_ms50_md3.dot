@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="rel_commit_period <= -0.256\nsamples = 178356\nvalue = [36465, 141891]", fillcolor="#6cb6ec"] ;
+1 [label="rel_commit_period <= -0.49\nsamples = 28250\nvalue = [17598, 10652]", fillcolor="#f5cdb1"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="rel_commits <= -0.283\nsamples = 14821\nvalue = [10624, 4197]", fillcolor="#efb387"] ;
+1 -> 2 ;
+3 [label="samples = 10853\nvalue = [8169, 2684]", fillcolor="#eeaa7a"] ;
+2 -> 3 ;
+4 [label="samples = 3968\nvalue = [2455, 1513]", fillcolor="#f5cfb3"] ;
+2 -> 4 ;
+5 [label="rel_tests_presence <= -0.667\nsamples = 13429\nvalue = [6974, 6455]", fillcolor="#fdf6f0"] ;
+1 -> 5 ;
+6 [label="samples = 5264\nvalue = [2301, 2963]", fillcolor="#d3e9f9"] ;
+5 -> 6 ;
+7 [label="samples = 8165\nvalue = [4673, 3492]", fillcolor="#f8dfcd"] ;
+5 -> 7 ;
+8 [label="rel_commit_period <= -0.12\nsamples = 150106\nvalue = [18867, 131239]", fillcolor="#55abe9"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="rel_commit_period <= -0.183\nsamples = 13815\nvalue = [3819, 9996]", fillcolor="#85c2ef"] ;
+8 -> 9 ;
+10 [label="samples = 6282\nvalue = [2100, 4182]", fillcolor="#9ccef2"] ;
+9 -> 10 ;
+11 [label="samples = 7533\nvalue = [1719, 5814]", fillcolor="#74baed"] ;
+9 -> 11 ;
+12 [label="rel_commit_period <= 0.201\nsamples = 136291\nvalue = [15048, 121243]", fillcolor="#52a9e8"] ;
+8 -> 12 ;
+13 [label="samples = 82692\nvalue = [6193, 76499]", fillcolor="#49a5e7"] ;
+12 -> 13 ;
+14 [label="samples = 53599\nvalue = [8855, 44744]", fillcolor="#60b0ea"] ;
+12 -> 14 ;
+}

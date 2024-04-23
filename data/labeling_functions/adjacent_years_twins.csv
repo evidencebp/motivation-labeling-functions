@@ -1,0 +1,2 @@
+developers,cnt,message_length_avg_better,refactor_mle_avg_better,refactor_mle_avg_better_no_zeros,commit_hours_better,message_length_avg_same,refactor_mle_avg_same,commit_hours_same
+34162,41356,0.490956572202337,0.57824741270915547,0.57824741270915547,0.69474804139665713,0.0049569590869523476,0.11345391237063536,0.097591643292388078
