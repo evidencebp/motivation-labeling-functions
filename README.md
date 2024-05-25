@@ -13,5 +13,12 @@ Using the identification of motivated developers, we measure developer performan
 up to 70% longer activity period, produce up to 300% more commits,
 and invest up to 44% more time per commit.
 
+# Code and date
+
+The data from this article is [here](https://github.com/evidencebp/motivation-labeling-functions/tree/main/data).
+The data and code from the survey, "[A Large Scale Survey of Motivation in Software Development and Analysis of its Validity](https://arxiv.org/pdf/2404.08303)" is [here](https://github.com/evidencebp/motivation-survey).
+
+The understand and use the code, start with the [main](https://github.com/evidencebp/motivation-labeling-functions/blob/main/src/scripts/main.py)
+
 This is the replication package of "Motivation Research Using Labeling Functions" by Idan Amit and [Dror G. Feitelson](https://www.cs.huji.ac.il/~feit/).
 https://doi.org/10.1145/3661167.3661224
