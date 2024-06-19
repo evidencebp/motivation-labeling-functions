@@ -20,8 +20,8 @@ The data and code from the survey, "[A Large Scale Survey of Motivation in Softw
 
 The understand and use the code, start with the [main](https://github.com/evidencebp/motivation-labeling-functions/blob/main/src/scripts/main.py)
 
-This is the replication package of "Motivation Research Using Labeling Functions" by Idan Amit and [Dror G. Feitelson](https://www.cs.huji.ac.il/~feit/).
-https://doi.org/10.1145/3661167.3661224
+This is the replication package of "[Motivation Research Using Labeling Functions](https://dl.acm.org/doi/abs/10.1145/3661167.3661224)" by Idan Amit and [Dror G. Feitelson](https://www.cs.huji.ac.il/~feit/).
+
 
 # Reference
 ```
