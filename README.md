@@ -1,4 +1,4 @@
-# [Motivation Research Using Labeling Functions](https://www.cs.huji.ac.il/w~feit/papers/MotivationLabeling24EASE.pdf)
+# [Motivation Research Using Labeling Functions](https://dl.acm.org/doi/abs/10.1145/3661167.3661224)
 
 
 Motivation is an important factor in software development. However, it is a subjective concept that is hard to quantify and study
